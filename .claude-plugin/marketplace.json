@@ -1,0 +1,5 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "WorldOccupier" },
+  "plugins": [{ "name": "gbp-inr", "source": "./gbp-inr" }]
+}
