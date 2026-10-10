@@ -1,6 +1,6 @@
 {
   "name": "gbp-inr",
   "version": "0.1.0",
-  "description": "Pane that charts the GBP to INR rate, polled every minute",
+  "description": "Live GBP to INR rate pane with intraday, weekly and monthly charts",
   "types": "./types/index.d.ts"
 }
